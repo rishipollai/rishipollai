@@ -12,9 +12,9 @@
 
 - 🤝 I’m looking for help with **any next js project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rishipollai](https://github.com/rishipollai)
+- 👨‍💻 All of my projects are available at [https://github.com/rishipollai]
 
-- 📝 I regularly write articles on [science and engineering](science and engineering)
+- 📝 I regularly write articles on [science and engineering]
 
 - 💬 Ask me about **react , next js , tailwind css**
 
@@ -31,6 +31,7 @@
 <a href="https://www.hackerrank.com/hrushikeshpolla2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hrushikeshpolla2" height="30" width="40" /></a>
 <a href="https://leetcode.com/rishipollai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rishipollai/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@hrushikeshpollai777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@hrushikeshpollai777" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16421337/rishi-pollai" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="https://stackoverflow.com/users/16421337/rishi-pollai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
