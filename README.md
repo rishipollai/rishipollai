@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rishi Pollai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀🧑🏻‍💻  Web3 Developer 🧑🏻‍💻🚀</h3>
 <img align="right" alt='coding' width="400" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"></img>
 
 
 
+<br/>
+
 - 🔭 I’m currently working on [building medium 2.0](https://sanity-medium-pro.vercel.app/)
-- 🌱 I’m currently learning **Solidity , Hardhat**
-- 👯 I’m looking to collaborate on **any frontend project**
-- 🤝 I’m looking for help with **any next js project**
+- 🌱 I’m currently learning **Solidity , Hardhat**.
+- 👯 I’m looking to collaborate on **Blockchain project**.
+- 🤝 I’m looking for help with **Open Source Contribution**.
 - 👨‍💻 All of my projects are available at my github.
-- 📝 I regularly write articles on [science and engineering]
-- 💬 Ask me about **react , next js , tailwind css**
-- 📫 How to reach me **rishipollai@gmail.com**
-- 📄 Know about my experiences [2+ years in software engineering].
-- ⚡ Fun fact **I think I am an entrepreneur !!**
+- 💬 Ask me about **React ,Next js ,Tailwind ,Javascript**.
+- 📫 How to reach me **rishipollai@gmail.com**.
+- 📄 2+ years experience in software engineering.
+- ⚡ Fact **I passionate about NFT ,DeFi ,ReFi**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
