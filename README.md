@@ -4,24 +4,15 @@
 
 
 
-- 🔭 I’m currently working on [building medium 2.0](sanity-medium-pro.vercel.app)
-
+- 🔭 I’m currently working on [building medium 2.0](https://sanity-medium-pro.vercel.app/)
 - 🌱 I’m currently learning **Solidity , Hardhat**
-
 - 👯 I’m looking to collaborate on **any frontend project**
-
 - 🤝 I’m looking for help with **any next js project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rishipollai]
-
+- 👨‍💻 All of my projects are available at my github.
 - 📝 I regularly write articles on [science and engineering]
-
 - 💬 Ask me about **react , next js , tailwind css**
-
 - 📫 How to reach me **rishipollai@gmail.com**
-
 - 📄 Know about my experiences [2+ years in software engineering].
-
 - ⚡ Fun fact **I think I am an entrepreneur !!**
 
 <h3 align="left">Connect with me:</h3>
