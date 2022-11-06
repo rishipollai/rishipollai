@@ -7,14 +7,14 @@
 <br/>
 
 - 🔭 I’m currently working on [building medium 2.0](https://sanity-medium-pro.vercel.app/)
-- 🌱 I’m currently learning **Solidity , Hardhat**.
-- 👯 I’m looking to collaborate on **Blockchain project**.
+- 🌱 I’m currently learning **Terraform**.
+- 👯 I’m looking to collaborate on **Cloud project**.
 - 🤝 I’m looking for help with **Open Source Contribution**.
 - 👨‍💻 All of my projects are available at my github.
-- 💬 Ask me about **React ,Next js ,Tailwind ,Javascript**.
+- 💬 Ask me about **Docker, Jenkins, AWS, Openshift, K8S, Git**.
 - 📫 How to reach me **rishipollai@gmail.com**.
 - 📄 2+ years experience in software engineering.
-- ⚡ Fact **I passionate about NFT ,DeFi ,ReFi**.
+- ⚡ Fact **I passionate about DevOps Engineer**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
